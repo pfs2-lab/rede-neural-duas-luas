@@ -2,7 +2,7 @@
 
 Projeto final da disciplina **Matemática para Ciência de Dados** (Especialização em Ciência de Dados).
 
-**Professor:** Adenilton · **Aluno:** Paulo Fraga · **Entrega:** 26/09/2026
+**Professor:** Adenilton · **Aluno:** Paulo Fraga de Sousa · **Entrega:** 26/09/2026
 
 📓 **Notebook:** [`projeto_rede_neural.ipynb`](projeto_rede_neural.ipynb). Ele já está executado, com todas as saídas e gráficos, e pode ser lido direto aqui no GitHub.
 
